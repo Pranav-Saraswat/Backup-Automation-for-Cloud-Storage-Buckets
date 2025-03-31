@@ -1,6 +1,6 @@
 # ☁️ Backup Automation for Cloud Storage Buckets
 
-![Backup Automation](https://user-images.githubusercontent.com/your-image.png)
+![Backup Automation](https://user-images.githubusercontent.com/backup-automation.png)
 
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-blue?style=flat&logo=terraform)](https://www.terraform.io/)
 [![AWS S3](https://img.shields.io/badge/Storage-AWS%20S3-orange?style=flat&logo=amazonaws)](https://aws.amazon.com/s3/)
